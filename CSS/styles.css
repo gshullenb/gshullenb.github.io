@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Fjalla+One');
+
+h1 {
+    font-family: 'Anton',sans-serif;
+    color: black;
+}
+
+h2, h3 {
+    font-family: 'Anton',sans-serif;
+    color: #B29100
+}
+
+p, li {
+    font-family: 'Inconsolata',serif;
+    color: #B29100
+}
+
+body {
+    background: url('../images/abstract-mosaic-background.png');
+    no-repeat center center fixed;
+}
+
+.wrapper {
+    width:960px;
+    margin:0 auto;
+}
+
+header,footer {
+    background-color:#FFD51E;
+    text-align:center;
+    padding: 15px 30px;
+}
+
+.main-content {
+    background-color:#0B0CB2;
+    padding:10px 0;
+    border-top: 2px solid black;
+}
+
+header img {
+    width 50%;
+    border-radius: 55 px;
+}
+
+.main-content ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main-content ul li {
+    padding: 10px;
+    display: inline;
+}
+
+a {
+    color: #CFD11a;
+    text-decoration: none;
+    font-family: 'Anton',sans-serif;
+}
+
+.main-content p {
+    margin 10px 40px;
+}
+
+.main-content h2 {
+    text-align: center;
+    display: inline;
+}
+
+#projects {
+    background-color: #595959:
+}
+
+.clearfix:after {
+    content: ""; 
+    display: table;
+    clear: both;
+}
+
+.project {
+    width: 30%;
+    display: inline-block;
+    background-color: #F2E9DC;
+    margin: 1.66%;
+    border-radius: 15px;
+    float:left;
+}
+
+.project img {
+    max-width: 100%;
+}
