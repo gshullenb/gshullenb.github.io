@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Fjalla+One');
 
+.img-circle {
+    border-radius: 50%;
+}
+
 h1 {
     font-family: 'Anton',sans-serif;
     color: black;
