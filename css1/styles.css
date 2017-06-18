@@ -84,12 +84,11 @@ a {
 }
 
 .project {
-    width: 50%;
+    width: 40%;
     display: inline-block;
     background-color: #F2E9DC;
     margin: 1.66%;
     border-radius: 15px;
-    float:left;
 }
 
 .project img {
