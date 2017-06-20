@@ -24,11 +24,6 @@ body {
     no-repeat center center fixed;
 }
 
-.wrapper {
-    width:960px;
-    margin:0 auto;
-}
-
 header,footer {
     background-color:#FFD51E;
     text-align:center;
